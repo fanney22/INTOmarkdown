@@ -1,14 +1,16 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+<ol>
+<li>Fanney Hrund Jónasdóttir</li>
+<li>Svava Dögg Björgvinsdóttir</li>
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Við fórum inná http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows og ýttum á "Download Pen Drive Linux's USB Installer". Þar ýttum við á "Download UUI" svo kom setup glugginn upp. Við downloaduðum Ubuntu á minnislykil og restörtuðum svo tölvunni og bootuðum henni af minnislyklinum.
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Eftir að við náðum að tengjast netinum gekk allt eins og í sögu. Slógum inn skipanirnar tvær sem voru gefnar upp í leiðbeiningunum.
 
 ## 3. Unnið með Git (1. hluti)
 
