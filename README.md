@@ -8,6 +8,8 @@
 
 Við fórum inná http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows og ýttum á "Download Pen Drive Linux's USB Installer". Þar ýttum við á "Download UUI" svo kom setup glugginn upp. Við downloaduðum Ubuntu á minnislykil og restörtuðum svo tölvunni og bootuðum henni af minnislyklinum.
 
+![Alt text](https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-prn2/1378809_10201627751249229_128293138_n.jpg)
+![Alt text](https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-frc3/1378809_10201627751289230_1440996909_n.jpg)
 ## 2. Uppsetning á vim && git
 
 Eftir að við náðum að tengjast netinum gekk allt eins og í sögu. Slógum inn skipanirnar tvær sem voru gefnar upp í leiðbeiningunum.
