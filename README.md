@@ -14,13 +14,23 @@ Eftir að við náðum að tengjast netinum gekk allt eins og í sögu. Slógum 
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
-
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
-
+Þetta skref gekk hálf brösulega í byrjun en að lokum hafðist þetta þó. Við lenntum einna helst í vandámáli við að stilla lyklaborðið á íslensku og að fá inn seinni breytinguna. urlið sem forkað var: https://github.com/fanney22/INTOPrufa
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+Fanney:
+
+Open office,
+
+licence= LGPL v3
+
+Source code download= http://www.openoffice.org/download/source/
+
+Svava:
+
+vlc   
+
+license =  LGPL
+source code = http://www.videolan.org/vlc/download-sources.html
 
 ## 5. Unnið með Git (2. hluti)
 
