@@ -21,19 +21,18 @@ Eftir að við náðum að tengjast netinum gekk allt eins og í sögu. Slógum 
 
 Fanney:
 
-Open office,
+<li> Open office,
 
-licence= LGPL v3
-
-Source code download= http://www.openoffice.org/download/source/
+      licence= LGPL v3
+      source code download= http://www.openoffice.org/download/source/</li>
 
 Svava:
 
-vlc   
+<li> vlc   
 
-license =  LGPL
-source code = http://www.videolan.org/vlc/download-sources.html
+    license =  LGPL
+    source code = http://www.videolan.org/vlc/download-sources.html</li>
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Mjög vel gekk að filla inn í markdown skránna. Við lenntum þó í örlitlu basli við að gera listana.
