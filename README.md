@@ -3,7 +3,7 @@
 <ol>
 <li>Fanney Hrund Jónasdóttir</li>
 <li>Svava Dögg Björgvinsdóttir</li>
-
+</ol>
 ## 1. Linux uppsetning
 
 Við fórum inná http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows og ýttum á "Download Pen Drive Linux's USB Installer". Þar ýttum við á "Download UUI" svo kom setup glugginn upp. Við downloaduðum Ubuntu á minnislykil og restörtuðum svo tölvunni og bootuðum henni af minnislyklinum.
@@ -20,7 +20,7 @@ Eftir að við náðum að tengjast netinum gekk allt eins og í sögu. Slógum 
 ## 4. Uppsettur hugbúnaður
 
 Fanney:
-
+<ol>
 <li> Open office,
 
       licence= LGPL v3
@@ -32,6 +32,7 @@ Svava:
 
     license =  LGPL
     source code = http://www.videolan.org/vlc/download-sources.html</li>
+</ol>
 
 ## 5. Unnið með Git (2. hluti)
 
