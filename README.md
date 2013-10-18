@@ -25,9 +25,9 @@ Fanney:
 
       licence= LGPL v3
       source code download= http://www.openoffice.org/download/source/</li>
-
+</ol>
 Svava:
-
+<ol>
 <li> vlc   
 
     license =  LGPL
