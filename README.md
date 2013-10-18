@@ -21,17 +21,11 @@ Eftir að við náðum að tengjast netinum gekk allt eins og í sögu. Slógum 
 
 Fanney:
 <ol>
-<li> Open office,
-
-      * licence= LGPL v3
-      * source code download= http://www.openoffice.org/download/source/</li>
+<li> Open office: licence= LGPL v3, source code download= http://www.openoffice.org/download/source/</li>
 </ol>
 Svava:
 <ol>
-<li> vlc   
-
-    * license =  LGPL
-    * source code = http://www.videolan.org/vlc/download-sources.html</li>
+<li> vlc: license =  LGPL, source code = http://www.videolan.org/vlc/download-sources.html</li>
 </ol>
 
 ## 5. Unnið með Git (2. hluti)
